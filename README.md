@@ -22,5 +22,5 @@ I also have a basic understanding of Java and Spring Boot, and I'm currently imp
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn:https://www.linkedin.com/in/aswin-kumar-1126ash/
+- Email: aswinkumarbtechoff@gmail.com
