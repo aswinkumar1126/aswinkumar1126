@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aswin Kumar 
 
-<!--
-**aswinkumar1126/aswinkumar1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer with 2 years of experience building web applications.
 
-Here are some ideas to get you started:
+I enjoy working with React, Next.js and TypeScript, and I like turning ideas into simple, user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have a basic understanding of Java and Spring Boot, and I'm currently improving my backend development skills to become a better full-stack developer.
+
+### 💻 Technologies I Work With
+
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript
+- **Backend:** Java, Spring Boot, Node.js, Express.js
+- **Database:** SQL, MongoDB
+- **Styling:** HTML, CSS, Tailwind CSS, Bootstrap, Material UI
+- **Tools:** Git, GitHub, Postman
+
+### 🌱 Currently Learning
+
+- Java and Spring Boot
+- Backend development
+- Building full-stack applications
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
